@@ -1,0 +1,29 @@
+/*
+=============== 
+Fonts
+===============
+*/
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
+
+/*
+=============== 
+Variables
+===============
+*/
+.header{
+  padding: 60px;
+  text-align:center;
+  background: black;
+  color: gold;
+  font-size: 30px;
+}
+/* Footer */
+.footer {
+  position: fixed;
+  left:0;
+  bottom: 0;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+}
